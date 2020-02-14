@@ -1,2 +1,2 @@
-# sparkMongoDBcom
-HDFS txt big data written to mongodb and viewed with spark sql
+# MongoDB
+### Using Apache Spark to read/write to a MongoDB, view with Spark SQL
